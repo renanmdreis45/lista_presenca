@@ -35,15 +35,12 @@ Ao adicionar um novo usuário, o estado do Input no campo de texto é atualizado
 <g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji>
  Layout
 </h2>
-<p> O layout da aplicação está disponível no Figma </p>
-<a href="https://www.figma.com/file/ejrz47kZrSOBEq41EGDuJw/App-Orçamento-Pessoal" rel="nofollow">
-<img alt="Acessar layout" src="https://camo.githubusercontent.com/35587ee124e65a7d141f05094932ff386c88e5326d7780dad7bc079906a03bd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416365737361722532304c61796f75742532302d4669676d612d253233303444333631" data-canonical-src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361" style="max-width: 100%;">
-</a>
 <h3>
- <a id="user-content-mobile" class="anchor" aria-hidden="true" href="#mobile"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
 Web
+<br>
 </h3>
-<p align="center"> 
+<p align="center">
+<a href="https://ibb.co/nrLGY9T"><img src="https://i.ibb.co/31C3j2w/Lista-de-presen-a.png" alt="Lista-de-presen-a" border="0"></a>
 </p>
 
 <h3>
